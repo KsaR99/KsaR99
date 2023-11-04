@@ -1,16 +1,15 @@
-### Hi there 👋
+# KsaR99 aka KsaR.
 
-<!--
-**KsaR99/KsaR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I am a performance-oriented programmer. My primary languages and technologies of expertise include
+> PHP, MariaDB, Linux, Debian, Nginx, CSS, HTML, JavaScript, with a bit less emphasis on C++.
 
-Here are some ideas to get you started:
+## Links to Other Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on other platforms:
+
+- [StackOverflow](https://stackoverflow.com/users/5304702/ksar) 🇬🇧
+- [CodePen](https://codepen.io/ksar99) 🇬🇧
+- [Forum WEB](https://www.forumweb.pl/profile/profile.php?id=24876) 🇵🇱
+- [Forum PHP](http://forum.php.pl/KsaR_m85825.html) 🇵🇱
+- [Forum GG](https://forum.gg/member/24876/ksar) 🇵🇱
+- [FaceBook Blog](https://www.facebook.com/ksar.ciekawostki) 🇵🇱
