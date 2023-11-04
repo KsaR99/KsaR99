@@ -9,7 +9,7 @@ You can also find me on other platforms:
 
 - [StackOverflow](https://stackoverflow.com/users/5304702/ksar) 🇬🇧
 - [CodePen](https://codepen.io/ksar99) 🇬🇧
-- [Forum WEB](https://www.forumweb.pl/profile/profile.php?id=24876) 🇵🇱
+- [Forum WEB](https://www.forumweb.pl/profile.php?mode=viewprofile&u=20559) 🇵🇱
 - [Forum PHP](http://forum.php.pl/KsaR_m85825.html) 🇵🇱
-- [Forum GG](https://forum.gg/member/24876/ksar) 🇵🇱
+- [Forum GG](https://forum.gg.pl/member/24876-ksar) 🇵🇱
 - [FaceBook Blog](https://www.facebook.com/ksar.ciekawostki) 🇵🇱
