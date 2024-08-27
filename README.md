@@ -22,4 +22,5 @@ With a bit less emphasis on _[C++](https://cplusplus.com/)_. But, yeah.
 You can also find me on other platforms:
 - 🇬🇧 [StackOverflow](https://stackoverflow.com/users/5304702/ksar)
 - 🇬🇧 [CodePen](https://codepen.io/ksar99)
+- [Twitch](https://www.twitch.tv/ksaruu)
 - 🇵🇱 [Facebook "Blog", gotta move it to some site in the future :D](https://www.facebook.com/ksar.ciekawostki)
