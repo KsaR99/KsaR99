@@ -19,7 +19,7 @@ With a bit less emphasis on _[C++](https://cplusplus.com/)_.
 ### Official links to Other Platforms
 
 You can also find me on other platforms:
-- [Mostadon](https://mastodon.social/invite/PYu5Lhye).
+- [Mastodon](https://mastodon.social/invite/PYu5Lhye).
 - [StackOverflow](https://stackoverflow.com/users/5304702/ksar).
 - [CodePen](https://codepen.io/ksar99).
 - [CSS Battle](https://cssbattle.dev/player/ksar).
